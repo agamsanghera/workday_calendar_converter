@@ -1,3 +1,7 @@
+'''
+Author: Agam Sanghera
+username: agamsanghera
+'''
 import pandas as pd
 #read excel as pandas dataframe
 a= pd.read_excel("Current_Schedule.xlsx")
